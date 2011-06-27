@@ -1,0 +1,5 @@
+D:\GitHandsOn\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\GitHandsOn\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\GitHandsOn\Solution1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitHandsOn\Solution1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\GitHandsOn\Solution1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
