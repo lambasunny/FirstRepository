@@ -9,6 +9,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Copy 1");
             Console.Write("Copy 2");
         }
     }
